@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Shanara
+-Profissão: Bancária
+-Cidade: Indaial - SC 
+-O que faz nas horas vaga: Pratico musculação
+-Feedback sobre o curso Qualidade de Software: Estou encantada com a didática do curso, a divisão dos módulos, com a pausa necessária e no tempo certo. É o meu primeiro curso online e me sinto muito amparada, o professor realmente está disposto a ajudar e isso agredada um valor sem medidas para o curso. 
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma prática, fácil de usar e rápida. Com essa agilidade e esse surporte com certeza é apenas o primeiro de muitos cursos que irei fazer. Parabéns equipe por toda dedicação! Vocês são nota mil!!!
 
 Obrigado!!!
 
